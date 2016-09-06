@@ -1,5 +1,5 @@
 
-package homework4;
+package plateau;
 import java.util.*;
 /**
  *
@@ -7,7 +7,7 @@ import java.util.*;
  * CSC 3380
  * HOMEWORK5
  */
-public class Homework4 {
+public class plateau {
 
     public static void main(String[] args) {
         Scanner cin = new Scanner(System.in);
